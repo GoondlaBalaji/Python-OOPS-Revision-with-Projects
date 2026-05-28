@@ -52,3 +52,4 @@ while True:
     
     else:
         print("\nInvalid Choice")
+        exit()
